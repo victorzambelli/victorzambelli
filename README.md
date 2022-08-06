@@ -90,8 +90,6 @@
   <a href="https://www.lua.org/docs.html">
     <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   </a> 
- 
-  <img align="right" alt="KinG-gif" src="https://cdn.discordapp.com/attachments/762002925786497084/893250951966785566/ezgif.com-gif-maker.gif">
 </div>
   
 ##
