@@ -22,6 +22,10 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="KinG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
+  
+  <a href="https://nodejs.org/en/docs/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  </a>
 
   <a href="https://reactjs.org/docs/getting-started.html">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
