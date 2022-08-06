@@ -19,20 +19,24 @@
     <img align="center" alt="KinG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://sass-lang.com/documentation/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  </a>
+  
+  <a href="https://lesscss.org/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+  </a>
+  
+  <a href="https://stylus-lang.com/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg">
+  </a>
+  
+  <a href="https://bulma.io/documentation/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
