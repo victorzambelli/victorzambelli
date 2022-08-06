@@ -23,6 +23,22 @@
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  
   <a href="https://nodejs.org/en/docs/">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
