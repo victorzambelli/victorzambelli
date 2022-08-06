@@ -43,7 +43,7 @@
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   </a>
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
   
