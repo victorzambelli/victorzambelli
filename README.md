@@ -27,8 +27,8 @@
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   
-  <a href="https://discord.js.org/#/">
-    <img align="center" alt="KinG-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
+  <a href="https://www.typescriptlang.org/docs/">
+    <img align="center" alt="KinG-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
   
   <a href="https://www.lua.org/docs.html">
