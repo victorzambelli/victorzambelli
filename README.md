@@ -94,9 +94,12 @@
   
 ##
 ### Contacte me
+
+```{r klippy, echo=FALSE, include=TRUE}
+zambelli.vic@gmail.com
+```
   
 <div>
-  <a href ="mailto:zambelli.vic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-zambelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6" target="_blank"></a>
 </div>
