@@ -24,7 +24,7 @@
   </a>
   
   <a href="https://nodejs.org/en/docs/">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
 
   <a href="https://reactjs.org/docs/getting-started.html">
