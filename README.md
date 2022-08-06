@@ -5,11 +5,19 @@
 - 💻 Learning C++/Reverse Engineering.
 - 💚 And i'm brazilian.
 
+##
+
+#### Github Stats
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorzambelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorzambelli&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
+
+##
+
+#### Tecnologias
+
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="KinG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -67,6 +75,7 @@
 </div>
   
 ##
+### Contacte me
   
 <div>
   <a href = "mailto:zambelli.vic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
