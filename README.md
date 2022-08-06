@@ -10,17 +10,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorzambelli&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br> 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  
+<div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="KinG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="KinG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
   <a href="https://nodejs.org/en/docs/">
