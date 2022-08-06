@@ -39,28 +39,48 @@
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg">
   </a>
   
-  <a href="https://bulma.io/documentation/">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-  </a>
-  
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  </a>
+  
+  <a href="https://bulma.io/documentation/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
-  <a href="https://nodejs.org/en/docs/">
-    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <a href="https://www.typescriptlang.org/docs/">
+    <img align="center" alt="KinG-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   </a>
-
+  
   <a href="https://reactjs.org/docs/getting-started.html">
     <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   
-  <a href="https://www.typescriptlang.org/docs/">
-    <img align="center" alt="KinG-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <a href="https://nodejs.org/en/docs/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  </a>
+  
+  <a href="https://api.jquery.com/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  </a>
+  
+  <a href="https://git-scm.com/doc">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/sql/sql-server/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  </a>
+  
+  <a href="https://www.mongodb.com/docs/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  </a>
+  
+  <a href="https://dev.mysql.com/doc/">
+    <img align="center" alt="KinG-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
   
   <a href="https://docs.python.org/">
