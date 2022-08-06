@@ -2,7 +2,7 @@
 
 - 💼 I'm working with Fullstack.
 - 🎓 I've been studying programming since I was 16 and I'm always dedicated to learning more..
-- 💻 Learning C++/Reverse Engineering.
+- 💻 Angular / .NET (C#) / AWS / Docker / Reverse Engineering.
 - 💚 And i'm brazilian.
 
 ##
