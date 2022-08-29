@@ -88,7 +88,11 @@
   
   <a href="https://www.lua.org/docs.html">
     <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  </a> 
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  </a>
 </div>
   
 ##
