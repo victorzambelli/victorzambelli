@@ -93,6 +93,14 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img align="center" alt="KinG-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
+  
+  <a href="https://docs.angularjs.org/guide">
+    <img align="center" alt="KinG-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </a>
+  
+  <a href="https://docs.docker.com/">
+    <img align="center" alt="KinG-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </a>
 </div>
   
 ##
