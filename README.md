@@ -82,6 +82,10 @@
     <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
   
+  <a href="https://www.php.net/docs.php">
+    <img align="center" alt="KinG-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </a>
+  
   <a href="https://docs.python.org/">
     <img align="center" alt="KinG-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </a>
