@@ -30,14 +30,6 @@
     <img align="center" alt="KinG-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
   
-  <a href="https://lesscss.org/">
-    <img align="center" alt="KinG-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
-  </a>
-  
-  <a href="https://stylus-lang.com/">
-    <img align="center" alt="KinG-Stylus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg">
-  </a>
-  
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
     <img align="center" alt="KinG-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
