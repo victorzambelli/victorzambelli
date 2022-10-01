@@ -15,7 +15,9 @@
 
 ##
 
-#### Tecnologias
+### 🛠 Tech Stack
+
+#### 💻 Front-End:
 
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -49,8 +51,11 @@
   <a href="https://reactjs.org/docs/getting-started.html">
     <img align="center" alt="KinG-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
-  
-  <a href="https://nodejs.org/en/docs/">
+</div>
+
+#### 🔧 Back-End & Banco de dados:
+<div style="display: inline_block"><br>
+    <a href="https://nodejs.org/en/docs/">
     <img align="center" alt="KinG-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </a>
   
@@ -64,14 +69,6 @@
   
   <a href="https://git-scm.com/doc">
     <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </a>
-  
-  <a href="https://www.mongodb.com/docs/">
-    <img align="center" alt="KinG-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </a>
-  
-  <a href="https://dev.mysql.com/doc/">
-    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
   
   <a href="https://www.php.net/docs.php">
@@ -88,6 +85,14 @@
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img align="center" alt="KinG-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  </a>
+  
+  <a href="https://www.mongodb.com/docs/">
+    <img align="center" alt="KinG-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  </a>
+  
+  <a href="https://dev.mysql.com/doc/">
+    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
 </div>
   
