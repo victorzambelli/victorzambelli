@@ -63,16 +63,16 @@
     <img align="center" alt="KinG-Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   </a>
   
+  <a href="https://www.npmjs.com/">
+    <img align="center" alt="KinG-NPM.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  </a>
+  
   <a href="https://api.jquery.com/">
     <img align="center" alt="KinG-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   </a>
   
   <a href="https://git-scm.com/doc">
     <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </a>
-  
-  <a href="https://www.php.net/docs.php">
-    <img align="center" alt="KinG-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a>
   
   <a href="https://docs.python.org/">
