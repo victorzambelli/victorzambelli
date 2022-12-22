@@ -83,10 +83,6 @@
     <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   </a>
   
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img align="center" alt="KinG-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  </a>
-  
   <a href="https://www.mongodb.com/docs/">
     <img align="center" alt="KinG-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </a>
