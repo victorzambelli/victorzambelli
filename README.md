@@ -75,10 +75,6 @@
     <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
   
-  <a href="https://docs.python.org/">
-    <img align="center" alt="KinG-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
-  
   <a href="https://www.lua.org/docs.html">
     <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   </a>
