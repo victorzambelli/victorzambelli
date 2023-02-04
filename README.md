@@ -71,12 +71,12 @@
     <img align="center" alt="KinG-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   </a>
   
-  <a href="https://git-scm.com/doc">
-    <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <a href="https://classic.yarnpkg.com/lang/en/docs/">
+    <img align="center" alt="KinG-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   </a>
   
-  <a href="https://www.lua.org/docs.html">
-    <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  <a href="https://git-scm.com/doc">
+    <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
   
   <a href="https://www.mongodb.com/docs/">
@@ -85,6 +85,10 @@
   
   <a href="https://dev.mysql.com/doc/">
     <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  </a>
+  
+  <a href="https://www.lua.org/docs.html">
+    <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   </a>
 </div>
   
