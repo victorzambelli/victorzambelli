@@ -47,10 +47,6 @@
   <a href="https://reactjs.org/docs/getting-started.html">
     <img align="center" alt="KinG-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
-  
-   <a href="https://docs.python.org/3/">
-    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
 </div>
 
 #### 🔧 Back-End & Banco de dados:
@@ -89,6 +85,10 @@
   
   <a href="https://www.lua.org/docs.html">
     <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  </a>
+  
+  <a href="https://docs.python.org/3/">
+    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </a>
 </div>
   
