@@ -75,6 +75,10 @@
     <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
   
+  <a href="https://learn.microsoft.com/pt-br/sql/">
+    <img align="center" alt="KinG-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  </a>
+  
   <a href="https://www.mongodb.com/docs/">
     <img align="center" alt="KinG-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </a>
