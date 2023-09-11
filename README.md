@@ -111,5 +111,3 @@ zambelli.vic@gmail.com
   <a href="https://www.linkedin.com/in/victor-zambelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://victorzambelli.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
