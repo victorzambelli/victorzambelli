@@ -2,7 +2,7 @@
 
 - 💼 I'm currently working with Fullstack.
 - 🎓 I've been studying programming since I was 16 and I'm always dedicated to learning more..
-- 💚 And i'm brazilian.
+- 💚 A Brazilian boy.
 
 ##
 
