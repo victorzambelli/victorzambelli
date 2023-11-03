@@ -44,8 +44,8 @@
     <img align="center" alt="KinG-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
-  <a href="https://reactjs.org/docs/getting-started.html">
-    <img align="center" alt="KinG-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <a href="https://docs.flutter.dev/">
+    <img align="center" alt="KinG-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   </a>
 </div>
 
