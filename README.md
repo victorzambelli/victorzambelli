@@ -87,12 +87,12 @@
     <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
 
-  <a href="https://dev.mysql.com/doc/">
-    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <a href="https://www.postgresql.org/docs/">
+    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   </a>
   
-  <a href="https://www.postgresql.org/docs/">
-    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <a href="ttps://docs.docker.com/">
+    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   </a>
   
   <a href="https://www.lua.org/docs.html">
