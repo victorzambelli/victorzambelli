@@ -15,94 +15,56 @@
 
 ##
 
-### 🛠 Tech Stack
+## 🛠️ Minhas Tecnologias
 
-#### 💻 Front-End:
+### 💻 Front-End
 
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="KinG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" alt="KinG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  
-  <a href="https://sass-lang.com/documentation/">
-    <img align="center" alt="KinG-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  </a>
-  
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
-    <img align="center" alt="KinG-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </a>
-  
-  <a href="https://bulma.io/documentation/">
-    <img align="center" alt="KinG-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="KinG-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  
-  <a href="https://docs.flutter.dev/">
-    <img align="center" alt="KinG-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
 </div>
 
-#### 🔧 Back-End & Banco de dados:
+---
+
+### 🧠 Back-End & Banco de Dados
+
 <div style="display: inline_block"><br>
-    <a href="https://nodejs.org/en/docs/">
-    <img align="center" alt="KinG-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </a>
-  
-  <a href="https://expressjs.com/">
-    <img align="center" alt="KinG-Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  </a>
-  
-  <a href="https://www.npmjs.com/">
-    <img align="center" alt="KinG-NPM.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  </a>
-  
-  <a href="https://api.jquery.com/">
-    <img align="center" alt="KinG-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  </a>
-  
-  <a href="https://classic.yarnpkg.com/lang/en/docs/">
-    <img align="center" alt="KinG-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
-  </a>
-  
-  <a href="https://git-scm.com/doc">
-    <img align="center" alt="KinG-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </a>
-  
-  <a href="https://learn.microsoft.com/pt-br/sql/">
-    <img align="center" alt="KinG-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  </a>
-  
-  <a href="https://www.mongodb.com/docs/">
-    <img align="center" alt="KinG-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </a>
-  
-  <a href="https://dev.mysql.com/doc/">
-    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a>
-
-  <a href="https://www.postgresql.org/docs/">
-    <img align="center" alt="KinG-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  </a>
-  
-  <a href="ttps://docs.docker.com/">
-    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </a>
-  
-  <a href="https://www.lua.org/docs.html">
-    <img align="center" alt="KinG-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  </a>
-  
-  <a href="https://docs.python.org/3/">
-    <img align="center" alt="KinG-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30"/>
 </div>
+
+---
+
+### ☁️ Outros Conhecimentos
+
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+</div>
+
+---
   
 ##
 ### Contacte me
